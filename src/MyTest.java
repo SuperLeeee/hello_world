@@ -5,6 +5,7 @@ public class MyTest {
         a++;
         a *= a;
         a--;
+
         System.out.println("hello hello");
         System.out.println("Hello world");
     }
